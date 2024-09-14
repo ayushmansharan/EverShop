@@ -1,0 +1,18 @@
+{
+  "name": "e_comm",
+  "version": "1.0.0",
+  "description": "E-comm Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "evershop install",
+    "build": "evershop build",
+    "start": "evershop start",
+    "dev": "evershop dev"
+  },
+  "author": "Arjun",
+  "license": "ISC",
+  "dependencies": {
+    "@evershop/evershop": "^1.1.0"
+  }
+}
